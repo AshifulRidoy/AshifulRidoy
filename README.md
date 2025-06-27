@@ -6,6 +6,8 @@
 
 **Data Engineer** with 2+ years building scalable data solutions using Azure Cloud Platform. Currently pursuing M.Sc. Web and Data Science at Universität Koblenz, Germany.
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Java, JavaScript, SQL  
