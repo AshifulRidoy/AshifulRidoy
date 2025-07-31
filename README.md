@@ -75,23 +75,20 @@ Currently pursuing my Master’s in **Web & Data Science** at Universität Koble
 
 ---
 
-### 📈 GitHub Stats
+### 🤝 Let's Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshifulRidoy&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshifulRidoy&theme=tokyonight" />
-</p>
+Got an exciting idea? Need help with data pipelines, intelligent systems, or full-stack apps?  
 
----
+I’d love to hear from you!
 
-### 🌐 Connect With Me
+📧 Reach out via [Email](mailto:ashiful.ridoy@gmail.com)  
+💼 Or connect on [LinkedIn](https://www.linkedin.com/in/ashiful-islam-ridoy/)  
+📍 Available for freelance, part-time, and research collaborations — remote or in-person (Germany 🇩🇪)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashiful-islam-ridoy/)  
-📫 **Email**: [ashiful.ridoy@gmail.com](mailto:ashiful.ridoy@gmail.com)  
-📍 **Location**: Koblenz, Germany  
-🔗 **GitHub**: [@AshifulRidoy](https://github.com/AshifulRidoy)
+> *"Alone we can do so little; together we can do so much." – Helen Keller*
 
 ---
+
 
 
 
