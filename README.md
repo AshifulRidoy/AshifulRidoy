@@ -1,20 +1,100 @@
 # Bonjour, I'm Ashiful Islam Ridoy! 👋
 
+
 <img src="./profile-3d-contrib/banner.svg" alt="Terminal Info" width="900" />
 
+<h3 align="center">🚀 Data Engineer & Machine Learning Specialist | MSc Web & Data Science (Koblenz)</h3>
+
+---
+
+### 🧠 About Me
+
+I'm a data-driven engineer passionate about building **scalable pipelines**, **intelligent systems**, and **human-centered automation**.  
+With 2+ years of industry experience, I specialize in:
+
+- 🧩 **End-to-end ML systems** (from training to real-time inference)
+- 🔧 **Cloud-native data engineering** (Azure Data Factory, Databricks)
+- ⚙️ **No-code + low-code platforms** (Power Platform, Streamlit)
+- 🧠 **Machine Learning model + framework** (LangChain, DeBERTa, LLaMA)
+
+Currently pursuing my Master’s in **Web & Data Science** at Universität Koblenz, Germany 🇩🇪
+
+---
+
+### 💼 Professional Background
+
+#### 🧠 R&D Application & Data Engineer  
+**Elevate Solutions Limited** · *Dhaka, Bangladesh*  
+**Aug 2022 – Mar 2024**
+
+- Developed intelligent data-driven applications using **React**, **Power Apps**, and **Power BI**, automating workflows and delivering real-time business insights.
+- Translated complex business requirements into interactive dashboards and scalable data models, improving operational efficiency and decision-making.
+- Engineered end-to-end **ETL pipelines** with **Azure Data Factory**, **Azure Databricks**, and **Azure SQL**, integrating cloud and on-premise systems via custom APIs—improving data processing speed by **35%**.
+- Designed and deployed machine learning models for classification and prediction using **PyTorch**, **Azure ML**, and **Python**, integrated with **CI/CD** workflows and **Docker** containers.
+- Implemented full MLOps lifecycle: reproducibility, model versioning, monitoring, and real-time inference in production.
+
+---
+
+#### 📊 Data Engineer Intern  
+**Elevate Solutions Limited** · *Dhaka, Bangladesh*  
+**May 2022 – Aug 2022**
+
+- Built and maintained scalable data pipelines with **Azure Data Factory** and **Azure Databricks**, centralizing disparate data sources into a unified warehouse.
+- Executed data transformation and cleansing tasks to ensure analytics-readiness and data integrity.
+- Designed and delivered **Power BI** dashboards that supported data-driven decision-making for key stakeholders.
+
+---
+
+#### 🌐 Freelance Web Developer  
+**Remote / Contract**  
+**Jan 2019 – Mar 2021**
+
+- Created full-stack, database-driven websites using **React**, **Node.js**, **PHP**, and **MySQL** for clients in e-commerce, education, and services.
+- Embedded **Google Analytics**, A/B testing, and tracking tools to measure and optimize UX performance.
+- Provided insights through user behavior reports, resulting in a **25–40% increase in client conversion rates**.
+
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**: Python, Java, JavaScript, PHP, SQL  
+**ML/AI**: PyTorch, TensorFlow, Hugging Face, OpenCV, LLaMA, DeBERTa  
+**Frameworks**: React, Streamlit, PyQt, JavaFX  
+**Cloud**: Azure Data Factory, Databricks, Azure SQL, Azure ML  
+**Tools**: Power BI, Power Apps, Docker, Git, LangChain, SharePoint  
+**Other**: Agile/Scrum, Figma, MS Project, CI/CD, REST APIs
+
+---
+
+### 📜 Certifications
+
+- 🟦 **Apache Spark™ Programming** – Databricks  
+- 📊 **Scalable Machine Learning with Apache Spark (V2)** – Databricks  
+- 🛠️ **Advanced Data Engineering** – Databricks
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshifulRidoy&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshifulRidoy&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashiful-islam-ridoy/)  
+📫 **Email**: [ashiful.ridoy@gmail.com](mailto:ashiful.ridoy@gmail.com)  
+📍 **Location**: Koblenz, Germany  
+🔗 **GitHub**: [@AshifulRidoy](https://github.com/AshifulRidoy)
+
+---
 
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshifulRidoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshifulRidoy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
 
 ---
 <div align="center">
