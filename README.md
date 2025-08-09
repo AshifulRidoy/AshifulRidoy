@@ -3,11 +3,11 @@
 
 <img src="./profile-3d-contrib/banner.svg" alt="Terminal Info" width="900" />
 
-<h3 align="center">🚀 Data Engineer & Machine Learning Specialist | MSc Web & Data Science (Koblenz)</h3>
+<h3 align="center">👨‍💻 Data Engineer & Machine Learning Specialist | MSc Web & Data Science (Koblenz)</h3>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a data-driven engineer passionate about building **scalable pipelines**, **intelligent systems**, and **human-centered automation**.  
 With 2+ years of industry experience, I specialize in:
@@ -15,37 +15,36 @@ With 2+ years of industry experience, I specialize in:
 - 🧩 **End-to-end ML systems** (from training to real-time inference)
 - 🔧 **Cloud-native data engineering** (Azure Data Factory, Databricks)
 - ⚙️ **No-code + low-code platforms** (Power Platform, Streamlit)
-- 🧠 **Machine Learning model + framework** (LangChain, DeBERTa, LLaMA)
+- 🤖 **Machine Learning model + framework** (LangChain, DeBERTa, LLaMA)
 
 Currently pursuing my Master’s in **Web & Data Science** at Universität Koblenz, Germany 🇩🇪
 
 ---
 
-### 💼 Professional Background
+### Work Experience
 
-#### 🧠 R&D Application & Data Engineer  
-**Elevate Solutions Limited** · *Dhaka, Bangladesh*  
+#### R&D Application & ML Engineer  
+**Elevate Solutions Limited** ·  
 **Aug 2022 – Mar 2024**
 
-- Developed intelligent data-driven applications using **React**, **Power Apps**, and **Power BI**, automating workflows and delivering real-time business insights.
-- Translated complex business requirements into interactive dashboards and scalable data models, improving operational efficiency and decision-making.
-- Engineered end-to-end **ETL pipelines** with **Azure Data Factory**, **Azure Databricks**, and **Azure SQL**, integrating cloud and on-premise systems via custom APIs—improving data processing speed by **35%**.
-- Designed and deployed machine learning models for classification and prediction using **PyTorch**, **Azure ML**, and **Python**, integrated with **CI/CD** workflows and **Docker** containers.
-- Implemented full MLOps lifecycle: reproducibility, model versioning, monitoring, and real-time inference in production.
+- Built production-ready ML models for classification and forecasting using **PyTorch**, **Azure ML**, and **Docker**, reducing deployment time by **40%**.  
+- Developed **MLOps workflows** with automated versioning & CI/CD for consistent model performance.  
+- Created **ETL pipelines** with **Azure Data Factory**, **Databricks**, and **SQL**, cutting pipeline latency by **35%** through optimized connector design.  
+- Delivered intelligent applications for healthcare, finance, and manufacturing clients using **React**, **Power BI**, and **Tableau**.
 
 ---
 
-#### 📊 Data Engineer Intern  
+#### Data Engineer Intern  
 **Elevate Solutions Limited** · *Dhaka, Bangladesh*  
 **May 2022 – Aug 2022**
 
-- Built and maintained scalable data pipelines with **Azure Data Factory** and **Azure Databricks**, centralizing disparate data sources into a unified warehouse.
-- Executed data transformation and cleansing tasks to ensure analytics-readiness and data integrity.
-- Designed and delivered **Power BI** dashboards that supported data-driven decision-making for key stakeholders.
+- Designed robust ETL pipelines consolidating data into a centralized warehouse.  
+- Built interactive **Power BI** dashboards for real-time KPI visibility.  
+- Optimized ML dataset preparation with **PySpark** and **SQL**, reducing preprocessing time by **25%**.
 
 ---
 
-#### 🌐 Freelance Web Developer  
+#### Freelance Web Developer  
 **Remote / Contract**  
 **Jan 2019 – Mar 2021**
 
@@ -58,20 +57,20 @@ Currently pursuing my Master’s in **Web & Data Science** at Universität Koble
 
 ### 🛠️ Tech Stack
 
-**Languages**: Python, Java, JavaScript, PHP, SQL  
-**ML/AI**: PyTorch, TensorFlow, Hugging Face, OpenCV, LLaMA, DeBERTa  
-**Frameworks**: React, Streamlit, PyQt, JavaFX  
-**Cloud**: Azure Data Factory, Databricks, Azure SQL, Azure ML  
-**Tools**: Power BI, Power Apps, Docker, Git, LangChain, SharePoint  
-**Other**: Agile/Scrum, Figma, MS Project, CI/CD, REST APIs
+**Languages:** Python, SQL, PySpark, Java, JavaScript, PHP  
+**ML/AI:** PyTorch, TensorFlow, Hugging Face, Scikit-learn, OpenCV, Azure ML, LLM Fine-tuning, GenAI  
+**Frameworks:** React, FastAPI, Flask, PyQT, JavaFX  
+**Data Engineering:** Azure Data Factory, Azure Databricks, Azure SQL, PostgreSQL, Docker, CI/CD  
+**Visualization:** Power BI, Tableau  
+**Other Tools:** Figma, Agile/Scrum, LangChain, MLOps workflows
 
 ---
 
 ### 📜 Certifications
 
-- 🟦 **Apache Spark™ Programming** – Databricks  
-- 📊 **Scalable Machine Learning with Apache Spark (V2)** – Databricks  
-- 🛠️ **Advanced Data Engineering** – Databricks
+-  **Apache Spark™ Programming** – Databricks  
+-  **Scalable Machine Learning with Apache Spark (V2)** – Databricks  
+-  **Advanced Data Engineering** – Databricks
 
 ---
 
