@@ -44,6 +44,17 @@ Currently pursuing my Master’s in **Web & Data Science** at Universität Koble
 
 ---
 
+#### Freelance Data Analyst  
+**Remote / Contract**  
+**Apr 2020 – Mar 2022**
+
+ - Conducted EDA on 50K–500K+ records using SQL (joins, CTEs, window functions) and Python to analyze customer behavior, funnel performance, and core business metrics.
+
+ - Applied statistical analysis and experimentation techniques, including descriptive statistics, correlation analysis, cohort analysis,  and basic regression, and automated KPI reporting and dashboards using SQL and Power BI, reducing manual reporting by 30–40%.
+
+
+---
+
 #### Freelance Web Developer  
 **Remote / Contract**  
 **Jan 2019 – Mar 2021**
