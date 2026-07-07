@@ -23,6 +23,16 @@ Currently pursuing my Master’s in **Web & Data Science** at Universität Koble
 
 ### Work Experience
 
+#### Digital Infrastructure Architec 
+**GIZ (GET.transform)** ·  
+**Apr 2026 – Present**
+
+- Developed large-scale ML infrastructure using distributed **Apache Spark**, **Kafka**, and **Airflow** pipelines to process terabyte-scale energy and infrastructure datasets.  
+- Designed automated **MLOps** systems including feature engineering, model monitoring, drift detection, and MLflow experiment tracking to optimize continuous retraining and forecasting reliability. 
+- Built and deployed a production-grade **RAG** platform on AWS SageMaker using **LangChain** and vector search for LLM-powered climate, NDC, and SDG document analysis.  
+
+---
+
 #### R&D Application & ML Engineer  
 **Elevate Solutions Limited** ·  
 **Aug 2022 – Mar 2024**
