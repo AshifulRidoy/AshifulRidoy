@@ -59,7 +59,7 @@ Currently pursuing my Master's in **Web & Data Science** at Universität Koblenz
 
 ### 🚀 Projects & Research
 
-#### [Explainable AI for Ethical Counter Speech Generation in Hate Speech Mitigation](https://github.com/AshifulRidoy/LANTERN) — Universität Koblenz
+#### Explainable AI for Ethical Counter Speech Generation in Hate Speech Mitigation — Universität Koblenz
 - Built a multi-agent NLP system using **DeBERTa-v3** and **LLaMA 3** for hate speech detection and sentiment analysis with rationale-aware response generation.
 - Developed an XAI dashboard implementing **DeepLIFT**, **LIME**, **SHAP**, and counterfactual explanations with LangChain-based agent orchestration, creating a transparent AI moderation system with detailed feature importance analysis.
 
