@@ -57,20 +57,12 @@ Currently pursuing my Master's in **Web & Data Science** at Universität Koblenz
 
 ---
 
-### 🚀 Projects & Research
+### 🚀 Research
 
 #### Explainable AI for Ethical Counter Speech Generation in Hate Speech Mitigation — Universität Koblenz
 - Built a multi-agent NLP system using **DeBERTa-v3** and **LLaMA 3** for hate speech detection and sentiment analysis with rationale-aware response generation.
 - Developed an XAI dashboard implementing **DeepLIFT**, **LIME**, **SHAP**, and counterfactual explanations with LangChain-based agent orchestration, creating a transparent AI moderation system with detailed feature importance analysis.
-
-#### Predictive Maintenance Copilot — AI-Powered Equipment Monitoring
-- Developed an AI-driven predictive maintenance system combining IoT sensor monitoring, ML inference (LSTM Autoencoder, RUL prediction, Isolation Forest) and RAG reasoning (LangGraph + vector search) to detect anomalies, predict failures, and generate explainable maintenance recommendations.
-- Engineered a hybrid architecture with explainable AI, deterministic agent orchestration, evidence-backed RAG retrieval, and a real-time Streamlit dashboard for transparent insights and human-in-the-loop decisioning.
-
-#### Pennywise — Financial RAG Assistant
-- Developed a Retrieval-Augmented Generation (RAG) pipeline using SentenceTransformers and Mistral to deliver context-aware, citation-backed answers from financial documents.
-- Built a Streamlit-based interface with PDF parsing (PyMuPDF), semantic chunking, vector search, and intelligent caching, enabling instant, privacy-preserving analysis of 100+ page financial reports.
-
+  
 ---
 
 ### 🛠️ Tech Stack
